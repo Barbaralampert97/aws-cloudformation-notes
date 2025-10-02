@@ -17,7 +17,18 @@ O **AWS CloudFormation** é um serviço da AWS que permite **definir a infraestr
 📚 [O que é AWS CloudFormation](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/Welcome.html)
 
 ---
+## 💻 O que é IaC (Infrastructure as Code)
+**IaC** significa **Infraestrutura como Código**. É a prática de **gerenciar e provisionar infraestrutura usando arquivos de configuração**, em vez de fazer tudo manualmente.  
 
+### Benefícios principais:
+- 🤖 **Automatização:** Criação e configuração de recursos de forma automática.  
+- 📦 **Reprodutibilidade:** Ambientes idênticos podem ser criados várias vezes (dev, teste, produção).  
+- 📜 **Versionamento:** Infraestrutura rastreável e controlada via Git.  
+- ✅ **Padronização:** Evita erros humanos e garante consistência entre ambientes.  
+
+📚 [Documentação AWS sobre IaC](https://docs.aws.amazon.com/cloudformation/index.html)
+
+---
 ## 🎯 Principais Benefícios do CloudFormation
 
 ### 1️⃣ Automatização 🤖
